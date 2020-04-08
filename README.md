@@ -10,11 +10,11 @@ A simple visualization made using Plotly to generate an animated choropleth map
 │   └───novel-corona-virus-2019-dataset
 └───Notebook
 ```
-- **input**
+- **input:**
 For storing input datasets
-  - **novel-corona-virus-2019-dataset**
+  - **novel-corona-virus-2019-dataset:**
   Storage for the Coronavirus dataset, last updated 7 April 2020
-- **notebook**
+- **Notebook:**
 For storing .ipynb notebooks
 
 ### Dependencies
